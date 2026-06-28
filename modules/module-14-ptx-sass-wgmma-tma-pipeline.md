@@ -4,10 +4,10 @@
 
 *图 14-1：global memory、TMA、shared memory、mbarrier、WGMMA 与 epilogue 组成的异步流水线。可编辑源图：[`module-14-async-pipeline-ptx.excalidraw`](../diagrams/module-14-async-pipeline-ptx.excalidraw)。*
 
-Level: Expert
-Estimated time: 18–28 小时
-Prerequisites: Modules 05, 09, 12, 13
-Sources: Current NVIDIA PTX ISA（CUDA 13.x 文档线，PTX ISA 9.x）、Hopper Tuning Guide、Blackwell Tuning Guide、CUDA C++ Programming Guide、CUDA Binary Utilities、Nsight Compute
+> **Level**: Expert
+> **Estimated time**: 18–28 小时
+> **Prerequisites**: Modules 05, 09, 12, 13
+> **Sources**: Current NVIDIA PTX ISA（CUDA 13.x 文档线，PTX ISA 9.x）、Hopper Tuning Guide、Blackwell Tuning Guide、CUDA C++ Programming Guide、CUDA Binary Utilities、Nsight Compute
 
 ---
 

@@ -4,10 +4,10 @@
 
 *图 05-1：从 CUDA Events 到 Nsight Systems、Nsight Compute 的性能证据链。可编辑源图：[`module-05-gpu-profiling-tools.excalidraw`](../diagrams/module-05-gpu-profiling-tools.excalidraw)。*
 
-Level: Intermediate  
-Estimated time: 12-18 小时  
-Prerequisites: Modules 00-04  
-Sources: Nsight Systems, Nsight Compute, CUDA C++ Best Practices Guide, CUDA Occupancy Calculator, vLLM Benchmark
+> **Level**: Intermediate
+> **Estimated time**: 12-18 小时
+> **Prerequisites**: Modules 00-04
+> **Sources**: Nsight Systems, Nsight Compute, CUDA C++ Best Practices Guide, CUDA Occupancy Calculator, vLLM Benchmark
 
 ---
 

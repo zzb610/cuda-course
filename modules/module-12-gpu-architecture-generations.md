@@ -4,10 +4,10 @@
 
 *图 12-1：从 Volta、Turing、Ampere、Hopper 到 Blackwell 的架构演进主线。可编辑源图：[`module-12-gpu-architecture-matrix.excalidraw`](../diagrams/module-12-gpu-architecture-matrix.excalidraw)。*
 
-Level: Advanced
-Estimated time: 14–20 小时
-Prerequisites: Modules 00–09
-Sources: NVIDIA Ampere/Hopper/Blackwell Tuning Guides, CUDA C++ Programming Guide, PTX ISA, Microbenchmarking Literature (Jarmusch et al., 2025), CUTLASS/vLLM/DeepGEMM Source Code
+> **Level**: Advanced
+> **Estimated time**: 14–20 小时
+> **Prerequisites**: Modules 00–09
+> **Sources**: NVIDIA Ampere/Hopper/Blackwell Tuning Guides, CUDA C++ Programming Guide, PTX ISA, Microbenchmarking Literature (Jarmusch et al., 2025), CUTLASS/vLLM/DeepGEMM Source Code
 
 ---
 

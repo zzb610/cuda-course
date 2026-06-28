@@ -4,11 +4,10 @@
 
 *图 00-1：CUDA host/device 分工与最小运行链路。可编辑源图：[`module-00-cuda-host-device-model.excalidraw`](../diagrams/module-00-cuda-host-device-model.excalidraw)。*
 
-Level: 入门前置
-Estimated time: 8–12 小时
-Prerequisites: 会写基本 C/C++，能使用命令行，理解指针与内存地址
-Sources: CUDA Toolkit Release Notes, CUDA Installation Guides, CUDA Samples, NVIDIA CUDA Documentation
-------------------------------------------------------------------------------------------------------
+> **Level**: 入门前置
+> **Estimated time**: 8–12 小时
+> **Prerequisites**: 会写基本 C/C++，能使用命令行，理解指针与内存地址
+> **Sources**: CUDA Toolkit Release Notes, CUDA Installation Guides, CUDA Samples, NVIDIA CUDA Documentation
 
 ## 学习目标 (Learning Objectives)
 

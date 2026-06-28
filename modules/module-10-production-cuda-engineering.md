@@ -4,10 +4,10 @@
 
 *图 10-1：从 kernel 到构建、测试、benchmark、发布和回归监控的生产工程闭环。可编辑源图：[`module-10-cuda-production-engineering.excalidraw`](../diagrams/module-10-cuda-production-engineering.excalidraw)。*
 
-Level: Advanced  
-Estimated time: 12–18 小时  
-Prerequisites: Modules 00–09  
-Sources: CUDA Runtime API, CMake CUDA docs, Compute Sanitizer, Nsight docs, PyTorch cpp_extension, vLLM/DeepGEMM build systems
+> **Level**: Advanced
+> **Estimated time**: 12–18 小时
+> **Prerequisites**: Modules 00–09
+> **Sources**: CUDA Runtime API, CMake CUDA docs, Compute Sanitizer, Nsight docs, PyTorch cpp_extension, vLLM/DeepGEMM build systems
 
 ---
 

@@ -4,10 +4,10 @@
 
 *图 04-1：Reduction 从线程局部值到 block 汇总再到全局结果的树形收敛过程。可编辑源图：[`module-04-reduction-tree.excalidraw`](../diagrams/module-04-reduction-tree.excalidraw)。*
 
-Level: Intermediate → Advanced  
-Estimated time: 14–18 小时  
-Prerequisites: Modules 00–03（线程模型、内存层次、kernel 启动）  
-Sources: NVIDIA CUDA C++ Programming Guide, CUDA Runtime API, CCCL/CUB docs, NCCL docs, GPU Gems 3, NVIDIA Technical Blog, Mark Harris CUDA reduction series, arXiv NCCL deep dive
+> **Level**: Intermediate → Advanced
+> **Estimated time**: 14–18 小时
+> **Prerequisites**: Modules 00–03（线程模型、内存层次、kernel 启动）
+> **Sources**: NVIDIA CUDA C++ Programming Guide, CUDA Runtime API, CCCL/CUB docs, NCCL docs, GPU Gems 3, NVIDIA Technical Blog, Mark Harris CUDA reduction series, arXiv NCCL deep dive
 
 ---
 

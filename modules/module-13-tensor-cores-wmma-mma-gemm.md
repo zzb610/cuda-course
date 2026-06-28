@@ -4,10 +4,10 @@
 
 *图 13-1：从 PyTorch matmul 到 CTA tile、warp tile、MMA/WGMMA 与 Tensor Core 的分层路径。可编辑源图：[`module-13-gemm-tensor-core.excalidraw`](../diagrams/module-13-gemm-tensor-core.excalidraw)。*
 
-Level: Advanced 
-Estimated time: 16–28 小时 
-Prerequisites: Modules 03, 05, 07, 09, 12 
-Sources: CUDA C++ Programming Guide, PTX ISA, cuBLAS, CUTLASS, DeepGEMM, Colfax Research, arXiv:2501.12084
+> **Level**: Advanced
+> **Estimated time**: 16–28 小时
+> **Prerequisites**: Modules 03, 05, 07, 09, 12
+> **Sources**: CUDA C++ Programming Guide, PTX ISA, cuBLAS, CUTLASS, DeepGEMM, Colfax Research, arXiv:2501.12084
 
 ---
 

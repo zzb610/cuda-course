@@ -4,10 +4,10 @@
 
 *图 17-1：CUDA kernel 经 C++ launcher、`TORCH_LIBRARY`、`torch.ops` 到 vLLM/SGLang 的集成路径。可编辑源图：[`module-17-pytorch-custom-op.excalidraw`](../diagrams/module-17-pytorch-custom-op.excalidraw)。*
 
-Level: Expert  
-Estimated time: 25–35 小时  
-Prerequisites: Modules 0–10, 13–16  
-Sources: PyTorch custom C++/CUDA operator tutorial (https://docs.pytorch.org/tutorials/advanced/cpp_custom_ops.html), PyTorch custom Python operators tutorial (https://docs.pytorch.org/tutorials/advanced/python_custom_ops.html), current PyTorch `torch.library` docs, vLLM CustomOp documentation (https://docs.vllm.ai/en/stable/api/vllm/model_executor/custom_op/), SGLang docs (https://docs.sglang.ai/), NVIDIA PhysicsNeMo torch.compile guide (https://docs.nvidia.com/physicsnemo/latest/user-guide/performance_docs/torch_compile_support.html), PyTorch Developer Mailing List — Custom Ops Under torch.compile (https://dev-discuss.pytorch.org/t/custom-ops-under-torch-compile-autograd-function-vs-torch-library-custom-op/3338/4)
+> **Level**: Expert
+> **Estimated time**: 25–35 小时
+> **Prerequisites**: Modules 0–10, 13–16
+> **Sources**: PyTorch custom C++/CUDA operator tutorial (https://docs.pytorch.org/tutorials/advanced/cpp_custom_ops.html), PyTorch custom Python operators tutorial (https://docs.pytorch.org/tutorials/advanced/python_custom_ops.html), current PyTorch `torch.library` docs, vLLM CustomOp documentation (https://docs.vllm.ai/en/stable/api/vllm/model_executor/custom_op/), SGLang docs (https://docs.sglang.ai/), NVIDIA PhysicsNeMo torch.compile guide (https://docs.nvidia.com/physicsnemo/latest/user-guide/performance_docs/torch_compile_support.html), PyTorch Developer Mailing List — Custom Ops Under torch.compile (https://dev-discuss.pytorch.org/t/custom-ops-under-torch-compile-autograd-function-vs-torch-library-custom-op/3338/4)
 
 ## 学习目标
 

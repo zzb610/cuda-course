@@ -4,10 +4,10 @@
 
 *图 06-1：Map、stencil、scan、reduction、histogram 等并行算法模式的结构关系。可编辑源图：[`module-06-parallel-algorithm-patterns.excalidraw`](../diagrams/module-06-parallel-algorithm-patterns.excalidraw)。*
 
-Level: Intermediate to Advanced  
-Estimated time: 12–18 小时  
-Prerequisites: Modules 00–05  
-Sources: NVIDIA CUDA C++ Programming Guide, CCCL/CUB docs, CUDA Samples, GPU Gems, PyTorch ATen, cuDNN docs
+> **Level**: Intermediate to Advanced
+> **Estimated time**: 12–18 小时
+> **Prerequisites**: Modules 00–05
+> **Sources**: NVIDIA CUDA C++ Programming Guide, CCCL/CUB docs, CUDA Samples, GPU Gems, PyTorch ATen, cuDNN docs
 
 ---
 

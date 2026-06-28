@@ -4,10 +4,10 @@
 
 *图 16-1：NCCL collectives、NVLink、PCIe、RDMA 与 MoE 通信路径的系统拓扑。可编辑源图：[`module-16-nccl-communication-topology.excalidraw`](../diagrams/module-16-nccl-communication-topology.excalidraw)。*
 
-Level: Expert  
-Estimated time: 20-30 小时  
-Prerequisites: Modules 8, 10, 12, 15  
-Sources: NVIDIA NCCL documentation, NVIDIA GPUDirect RDMA documentation, NVIDIA NVLink/NVSwitch documentation, DeepEP README, vLLM/SGLang distributed inference source and docs, Megatron-LM documentation, DeepSeek-V3 technical report, arXiv papers on NCCL algorithms and MoE EP.
+> **Level**: Expert
+> **Estimated time**: 20-30 小时
+> **Prerequisites**: Modules 8, 10, 12, 15
+> **Sources**: NVIDIA NCCL documentation, NVIDIA GPUDirect RDMA documentation, NVIDIA NVLink/NVSwitch documentation, DeepEP README, vLLM/SGLang distributed inference source and docs, Megatron-LM documentation, DeepSeek-V3 technical report, arXiv papers on NCCL algorithms and MoE EP.
 
 ---
 

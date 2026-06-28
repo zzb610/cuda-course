@@ -4,10 +4,10 @@
 
 *图 18-1：逻辑 token、block table、物理 KV cache page 与 decode attention kernel 的间接寻址关系。可编辑源图：[`module-18-pagedattention-kv-cache.excalidraw`](../diagrams/module-18-pagedattention-kv-cache.excalidraw)。*
 
-Level: Expert  
-Estimated time: 28-40 小时  
-Prerequisites: Modules 3, 5, 8, 13-17  
-Sources: vLLM documentation and source, SGLang documentation, FlashAttention papers/code, NVIDIA CUDA and PTX documentation, DeepGEMM/DeepEP for adjacent GEMM and MoE paths, DeepSeek-V2/V3/R1 technical reports
+> **Level**: Expert
+> **Estimated time**: 28-40 小时
+> **Prerequisites**: Modules 3, 5, 8, 13-17
+> **Sources**: vLLM documentation and source, SGLang documentation, FlashAttention papers/code, NVIDIA CUDA and PTX documentation, DeepGEMM/DeepEP for adjacent GEMM and MoE paths, DeepSeek-V2/V3/R1 technical reports
 
 ---
 

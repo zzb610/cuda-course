@@ -4,10 +4,10 @@
 
 *图 15-1：CUTLASS、CuTe、DeepGEMM 与现代 GEMM 工程之间的分工关系。可编辑源图：[`module-15-cutlass-deepgemm.excalidraw`](../diagrams/module-15-cutlass-deepgemm.excalidraw)。*
 
-Level: Expert  
-Estimated time: 16–24 小时  
-Prerequisites: Modules 13–14（PTX、TMA、WGMMA、Tensor Core 微架构）  
-Sources: CUTLASS 4.x, CuTe, DeepGEMM, vLLM/SGLang source, NVIDIA PTX ISA, Hopper/Blackwell Tuning Guide
+> **Level**: Expert
+> **Estimated time**: 16–24 小时
+> **Prerequisites**: Modules 13–14（PTX、TMA、WGMMA、Tensor Core 微架构）
+> **Sources**: CUTLASS 4.x, CuTe, DeepGEMM, vLLM/SGLang source, NVIDIA PTX ISA, Hopper/Blackwell Tuning Guide
 
 ---
 

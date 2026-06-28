@@ -4,10 +4,10 @@
 
 *图 07-1：Thrust、CUB、cuBLAS、cuDNN、CUTLASS 等库在 CUDA 生态中的抽象层级。可编辑源图：[`module-07-cuda-libraries-hierarchy.excalidraw`](../diagrams/module-07-cuda-libraries-hierarchy.excalidraw)。*
 
-Level: Intermediate to Advanced  
-Estimated time: 12–20 小时  
-Prerequisites: Modules 00–06  
-Sources: CCCL docs, cuBLAS docs, cuDNN docs, cuSOLVER docs, cuSPARSE docs, NCCL docs, CUDA Runtime API, PyTorch ATen source
+> **Level**: Intermediate to Advanced
+> **Estimated time**: 12–20 小时
+> **Prerequisites**: Modules 00–06
+> **Sources**: CCCL docs, cuBLAS docs, cuDNN docs, cuSOLVER docs, cuSPARSE docs, NCCL docs, CUDA Runtime API, PyTorch ATen source
 
 ---
 

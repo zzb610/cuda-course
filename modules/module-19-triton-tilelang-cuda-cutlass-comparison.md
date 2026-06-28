@@ -4,10 +4,10 @@
 
 *图 19-1：CUDA C++、CUTLASS/CuTe、Triton、TileLang 在控制力、开发速度、可移植性和调试成本上的对比。可编辑源图：[`module-19-cuda-triton-tilelang-comparison.excalidraw`](../diagrams/module-19-cuda-triton-tilelang-comparison.excalidraw)。*
 
-Level: Expert  
-Estimated time: 20–32 小时  
-Prerequisites: Modules 3, 5, 10, 13–18  
-Sources: Triton official documentation, TileLang documentation, NVIDIA CUDA/PTX documentation, CUTLASS/CuTe documentation, PyTorch custom op tutorial, vLLM/SGLang source and docs, arXiv papers, PyTorch blog posts
+> **Level**: Expert
+> **Estimated time**: 20–32 小时
+> **Prerequisites**: Modules 3, 5, 10, 13–18
+> **Sources**: Triton official documentation, TileLang documentation, NVIDIA CUDA/PTX documentation, CUTLASS/CuTe documentation, PyTorch custom op tutorial, vLLM/SGLang source and docs, arXiv papers, PyTorch blog posts
 
 ---
 

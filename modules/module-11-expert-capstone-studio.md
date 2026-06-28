@@ -4,10 +4,10 @@
 
 *图 11-1：专家级 capstone 从问题定义、实现、profiling 到报告交付的工作流。可编辑源图：[`module-11-capstone-workflow.excalidraw`](../diagrams/module-11-capstone-workflow.excalidraw)。*
 
-Level: Expert  
-Estimated time: 20–40 小时（基础闭环）/ 40–80 小时（精品交付）  
-Prerequisites: Modules 00–10  
-Sources: 按项目主题选择 CUDA、Nsight、CCCL、cuBLAS、CUTLASS、DeepGEMM、FlashAttention 或其他官方资料
+> **Level**: Expert
+> **Estimated time**: 20–40 小时（基础闭环）/ 40–80 小时（精品交付）
+> **Prerequisites**: Modules 00–10
+> **Sources**: 按项目主题选择 CUDA、Nsight、CCCL、cuBLAS、CUTLASS、DeepGEMM、FlashAttention 或其他官方资料
 
 ---
 

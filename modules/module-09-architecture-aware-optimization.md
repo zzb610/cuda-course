@@ -4,10 +4,10 @@
 
 *图 09-1：SM 资源、occupancy、寄存器、shared memory 与吞吐之间的约束关系。可编辑源图：[`module-09-gpu-architecture-occupancy.excalidraw`](../diagrams/module-09-gpu-architecture-occupancy.excalidraw)。*
 
-Level: Advanced  
-Estimated time: 14–20 小时  
-Prerequisites: Modules 00–08  
-Sources: CUDA C++ Programming Guide, CUDA C++ Best Practices Guide, Nsight Compute, PTX ISA docs, CUTLASS, FlashAttention, vLLM
+> **Level**: Advanced
+> **Estimated time**: 14–20 小时
+> **Prerequisites**: Modules 00–08
+> **Sources**: CUDA C++ Programming Guide, CUDA C++ Best Practices Guide, Nsight Compute, PTX ISA docs, CUTLASS, FlashAttention, vLLM
 
 ---
 

@@ -4,9 +4,9 @@
 
 *图 08-1：多 stream 中 H2D、kernel、D2H 与 event 的重叠时间线。可编辑源图：[`module-08-cuda-stream-overlap.excalidraw`](../diagrams/module-08-cuda-stream-overlap.excalidraw)。*
 
-Level: Advanced  
-Estimated time: 12-18 小时  
-Prerequisites: Modules 00-07  
+> **Level**: Advanced
+> **Estimated time**: 12-18 小时
+> **Prerequisites**: Modules 00-07
 Last updated: 2026-06-28  
 
 ---
